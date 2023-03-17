@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iloabuchi-Collins
 - 📫 I’m a Python-Django backend developer keen on building insightful projects. 
-- 👀 Looking to transitio into Data Science
+- 👀 Looking to transition into Data Science
 - 🌱 <b>Let's grow together<b>
 <!---
 - 👀 I’m interested in ...
