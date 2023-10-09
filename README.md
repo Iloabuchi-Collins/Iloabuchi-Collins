@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Iloabuchi-Collins
-- 📫 I’m a DataCamp certified Data Scientist  
+- 👋 Hi, I’m Iloabuchi-Collins
+- ✨ I’m a DataCamp certified Data Scientist  
 - 👀 Experienced in Python-Django backend development
 - 💞️ Keen on drawing insights from your data and building amazing projects
 - 📫 Reach me on LinkedIn Collins Iloabuchi [https://www.linkedin.com/in/collins-iloabuchi]
